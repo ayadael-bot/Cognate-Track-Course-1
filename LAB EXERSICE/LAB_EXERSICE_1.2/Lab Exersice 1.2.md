@@ -5,7 +5,7 @@ This image shows an Arduino Uno connected to multiple LEDs arranged in a straigh
 In this circuit, the LEDs are programmed to turn ON and OFF in a symmetrical sequence. The animation begins from the two outermost LEDs at both ends, then gradually moves inward toward the center LED. After the center LED lights up, the sequence reverses direction, moving outward again until the outer LEDs are reached. This creates a visually appealing “inward–outward chasing” or “mirror” lighting effect.
 
 The project demonstrates:
-Sequential LED control using Arduino digital pins
-Use of loops and arrays in programming
-Timing control with delays
-Symmetrical light pattern generation
+Sequential LED control using Arduino digital pins.
+Use of loops and arrays in programming.
+Timing control with delays.
+Symmetrical light pattern generation.
